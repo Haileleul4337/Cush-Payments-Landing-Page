@@ -8,17 +8,17 @@ const testimonials = [
   {
     quote: "Finally, a money transfer experience that feels simple and transparent.",
     route: "London → Ghana",
-    image: "/images/4.jpg",
+    image: "/images/2.jpg",
   },
   {
     quote: "The calculator makes it easy to see what my family receives before I send.",
     route: "Washington DC → Ethiopia",
-    image: "/images/5.jpg",
+    image: "/images/4.jpg",
   },
   {
     quote: "Fast, clean, and built for people sending money back home.",
     route: "Manchester → Nigeria",
-    image: "/images/2.jpg",
+    image: "/images/8.jpg",
   },
 ];
 
