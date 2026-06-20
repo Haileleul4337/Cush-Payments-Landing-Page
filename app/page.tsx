@@ -44,9 +44,6 @@ export default function Home() {
       </FadeIn>
       <FadeIn>
         <CurrencyCalculator />
-      </FadeIn> 
-      <FadeIn>
-        <CurrencyCalculator />
       </FadeIn>
       <FadeIn>
         <HowItWorks />
